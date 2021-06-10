@@ -1,3 +1,3 @@
-<Version: 1.01>
+<Version: 1.02>
 /data/data.zip https://github.com/ONITAIAOI/dataup-/blob/main/data.zip
 <End of Version>
