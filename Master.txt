@@ -1,3 +1,3 @@
 <Version: 1.01>
-/updata/Game_boxed.exe https://doc-0k-9o-docs.googleusercontent.com/docs/securesc/gdtgsob00k2dsf1r4hpjf885fqqcrbfe/irtbl8tsb7cqk4gdi7ul0m80fum7btc3/1623370875000/00646128724820841780/00646128724820841780/1va91jaOStdfRIhG4Kyu-BemVBUWtB8oJ?e=download&authuser=2&nonce=8h1eb8sj81fcc&user=00646128724820841780&hash=bgkt4n9vflkg3jaclfm7is9v69imspq4
+/updata/data.7z https://raw.githubusercontent.com/ONITAIAOI/Updata/main/data.7z
 <End of Version>
